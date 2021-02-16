@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Machine Learning Developer. Learning statistics one day at a time. 
+
 <!--
 **rishinrahim/rishinrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
