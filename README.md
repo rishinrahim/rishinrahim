@@ -7,11 +7,10 @@ I am a Machine Learning Developer. Learning statistics one day at a time.
 - [Twitter](https://twitter.com/rishinrahim)
 - [Linkedin](https://www.linkedin.com/in/rishinrahim/)
 
+----
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishinrahim&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishinrahim&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Rishin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishinrahim&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishinrahim&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rishinrahim/rishinrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
