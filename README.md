@@ -2,8 +2,7 @@
 
 I am a Machine Learning Developer. Learning statistics one day at a time. 
 
-
-📫 **How to reach me**: 
+**How to reach me**: 
 - [Twitter](https://twitter.com/rishinrahim)
 - [Linkedin](https://www.linkedin.com/in/rishinrahim/)
 
