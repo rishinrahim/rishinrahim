@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Machine Learning Developer. Learning statistics one day at a time. 
+I am a Machine Learning Engineer. Learning statistics one day at a time. 
 
 **How to reach me**: 
 - [Twitter](https://twitter.com/rishinrahim)
