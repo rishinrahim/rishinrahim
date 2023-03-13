@@ -5,6 +5,17 @@ I am a Machine Learning Engineer. Learning statistics one day at a time.
 **How to reach me**: 
 - [Twitter](https://twitter.com/rishinrahim)
 - [Linkedin](https://www.linkedin.com/in/rishinrahim/)
+- [Personal Blog/Website](https://rishinrahim.github.io)
+
+By the way, you can also download my resume [here](https://rishinrahim.github.io/assets/resume.pdf)
+
+### Technologies I'm familiar with
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) !
+
+**Tools:**  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![ONNX](https://img.shields.io/badge/Onnx-005CED?style=for-the-badge&logo=onnx&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ----
 <!--
