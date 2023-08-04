@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi, I'm Rishin Rahim 👋
 
-I am a Machine Learning Engineer. Learning statistics one day at a time. 
+I am a Machine Learning Engineer, helping to bring machine learning models into production - develop and deploy machine learning systems. I mainly apply ML to tackle the challenge of source code problems (ML on code) - code representation, code generation, code detection, security vulnererabilty detection etc. Currenlty I work at Blueoptima.
 
 **How to reach me**: 
 - [Twitter](https://twitter.com/rishinrahim)
 - [Linkedin](https://www.linkedin.com/in/rishinrahim/)
-- [Personal Blog/Website](https://rishinrahim.github.io)
+- [Personal Blog/Website](https://rishinrahim.com)
 
 By the way, you can also download my resume [here](https://rishinrahim.github.io/assets/resume.pdf)
 
