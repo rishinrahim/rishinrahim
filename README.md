@@ -9,8 +9,6 @@ I am a Machine Learning Engineer, helping to bring machine learning models into 
 
 By the way, you can also download my resume [here](https://rishinrahim.github.io/assets/resume.pdf)
 
-### Technologies I'm familiar with
-
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
